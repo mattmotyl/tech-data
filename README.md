@@ -24,4 +24,11 @@ This is a fork of [Lotus Docs](https://lotusdocs.dev/docs/quickstart/) with cust
 
 ## Development Workflow
 
-- hugo server -D
+- run `hugo server --disableFastRender`
+- navigate to [http://localhost:1313](http://localhost:1313)
+- create pages using `hugo new docs/my-page.md`
+- edit markdown files in `content/docs/...`, saving auto-refreshes browser
+- commit changes using git and push them up
+    - deploy to github pages kicks off immediately
+    - track deploy process in the 'actions' tab
+    - site is published when action completes - clear cache to check.
