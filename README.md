@@ -22,6 +22,10 @@ This is a fork of [Lotus Docs](https://lotusdocs.dev/docs/quickstart/) with cust
 
 `git clone https://github.com/gbdubs/lotusdocs-tech-data themes/lotusdocs`
 
+Then, switch to the `grady/customizations` branch:
+
+`git pull; git checkout grady/customizations`
+
 ## Development Workflow
 
 - run `hugo server --disableFastRender`
