@@ -14,13 +14,17 @@ toc: true
 ## On Matt 
 
 [ ] Set up dev environment and make sure it works
+
 [ ] Come up with an Icon Idea
+
 [ ] Choose a primary color
+
 [ ] Configure DNS records 
 
 ## On Grady
 
 [ ] Add Icon List
+
 [ ] Add More Syntax Info
 [ ] Figure out the /docs/ prefix
 [ ] Set up Github Pages Deployment
